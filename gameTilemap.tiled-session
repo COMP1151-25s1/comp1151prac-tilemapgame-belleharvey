@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "TinyDungeon_Tilesheet.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "TinyDungeon_Tilesheet.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "draftlevel.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -78.75,
+                "y": -168.5
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/49142682/Documents/Tilemap",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "TinyDungeon_Tilesheet.tsx",
+        "draftlevel.tmx"
+    ],
+    "project": "gameTilemap.tiled-project",
+    "recentFiles": [
+        "draftlevel.tmx",
+        "TinyDungeon_Tilesheet.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

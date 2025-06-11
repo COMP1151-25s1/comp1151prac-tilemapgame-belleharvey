@@ -1,0 +1,73 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "untitled.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "Assets",
+        "Assets/Tiled"
+    ],
+    "fileStates": {
+        "ArtPixelRedux_TileSheet.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "Assets/Tiled/ArtPixelRedux_TileSheet.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Assets/Tiled/ArtRedux.tsx": {
+            "dynamicWrapping": false
+        },
+        "Assets/Tiled/Industrial.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.25
+        },
+        "Industrial_Tilesheet.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.75
+        },
+        "todd.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "untitled.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 366.25,
+                "y": 110.75
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/belle/OneDrive/Documents/GitHub/comp1151prac-tilemapgame-belleharvey/Assets/Tilesheet/Tilemap",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 21,
+    "map.tileWidth": 21,
+    "openFiles": [
+        "ArtPixelRedux_TileSheet.tsx",
+        "untitled.tmx"
+    ],
+    "project": "AshRunnerTilemap.tiled-project",
+    "recentFiles": [
+        "Assets/Tiled/ArtPixelRedux_TileSheet.tsx",
+        "ArtPixelRedux_TileSheet.tsx",
+        "Assets/Tiled/Industrial.tsx",
+        "untitled.tmx",
+        "todd.tsx",
+        "Industrial_Tilesheet.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 2,
+    "tileset.tileSize": {
+        "height": 21,
+        "width": 21
+    }
+}
